@@ -38,7 +38,7 @@ A collection of my Programming projects created within Prog-102
 # So, making this small website, even if it was incredibly simple, was very fun, and I hope that in my future as a programmer, I can find that joy within all the work I do.
 
 
-## Wrap Up
+ Wrap Up
 
 # This is just a small taste of everything I've accomplished and learned within this class. My final project is something that I am pretty proud of, before this class I
 # had basically never used JavaScript, so for me to be able to pick up the basics in just 15 weeks was awesome. I think this is a great class to let current programmers express themselves
